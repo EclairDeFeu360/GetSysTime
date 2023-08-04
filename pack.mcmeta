@@ -1,0 +1,28 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [15, 9e9],
+    "description": [
+      {
+        "text": "Get the time from your system\nBy : ",
+        "color": "gold"
+      },
+      {
+        "text": "EclairDeFeu360",
+        "color": "dark_aqua",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://www.planetminecraft.com/member/eclairdefeu360"
+        },
+        "hoverEvent": {
+          "action": "show_text",
+          "contents": {
+            "text": "Click to view the PMC profile",
+            "color": "yellow"
+          }
+        }
+      }
+    ]
+  },
+  "overlays": { "entries": [{ "directory": "16", "formats": [16, 9e9] }] }
+}
