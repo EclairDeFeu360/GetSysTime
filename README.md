@@ -4,6 +4,7 @@ Need snapshot 23w03a or newer !
 For older versions see : https://www.planetminecraft.com/data-pack/systime/
 
 How to get the time :
+
 • Use /function getsystime:set to place the command block and the marker used to get the time.
 It is recommended that you place it on the world spawn.
 If your world already had this installation, it will be replaced.
