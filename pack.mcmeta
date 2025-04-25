@@ -28,7 +28,8 @@
     "entries": [
       { "directory": "16", "formats": [16, 9e9] },
       { "directory": "19", "formats": [19, 9e9] },
-      { "directory": "45", "formats": [45, 9e9] }
+      { "directory": "45", "formats": [45, 9e9] },
+      { "directory": "62", "formats": [62, 9e9] }
     ]
   }
 }
